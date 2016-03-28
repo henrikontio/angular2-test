@@ -33,6 +33,6 @@ node_modules
 .node_repl_history
 
 # Project specific transpiled files and sourcemaps
-app/**/*.js
-app/**/*.map
+*.js
+*.js.map
 typings/
